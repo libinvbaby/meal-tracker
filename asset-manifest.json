@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mealtracker/static/css/main.c2b9c548.css",
-    "main.js": "/mealtracker/static/js/main.8929b27d.js",
+    "main.js": "/mealtracker/static/js/main.87503366.js",
     "static/media/calorie-finder.png": "/mealtracker/static/media/calorie-finder.1ba6f482d33c0cd08578.png",
     "index.html": "/mealtracker/index.html",
     "main.c2b9c548.css.map": "/mealtracker/static/css/main.c2b9c548.css.map",
-    "main.8929b27d.js.map": "/mealtracker/static/js/main.8929b27d.js.map"
+    "main.87503366.js.map": "/mealtracker/static/js/main.87503366.js.map"
   },
   "entrypoints": [
     "static/css/main.c2b9c548.css",
-    "static/js/main.8929b27d.js"
+    "static/js/main.87503366.js"
   ]
 }
