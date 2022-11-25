@@ -8,7 +8,7 @@ function Navbar() {
     <BrowserRouter>
   <div className="container">
 
-  <Link className="navbar-link"  Exact from="/"   to="/"> <img className="logo" width="100" src={require('../images/calorie-finder.png')} alt="" /></Link>
+  <Link className="navbar-link"   from="meal-tracker/"   to="meal-tracker/"> <img className="logo" width="100" src={require('../images/calorie-finder.png')} alt="" /></Link>
 
   <Link className="navbar-link text-white p-2" to='meal-tracker/'>Home</Link>
   <Link className="navbar-link text-white p-2" to='meal-tracker/product'>Product</Link>

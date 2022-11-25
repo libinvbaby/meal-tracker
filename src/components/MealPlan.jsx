@@ -10,7 +10,10 @@ const MealPlan = () => {
         axios.get(`https://api.spoonacular.com/mealplanner/generate?apiKey=${API_KEY}&timeFrame=day&targetCalories=${calories}`).then((res)=>{
             setFood(res.data);
             console.log(res.data);
-          })
+          }).catch((err) => {
+            let message = typeof err.response !== "undefined" ? err.response.data.message : err.message;
+          alert( message);
+          });
     }
     function handleChange(e){
        setCalories(e.target.value)
