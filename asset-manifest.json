@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mealtracker/static/css/main.c2b9c548.css",
-    "main.js": "/mealtracker/static/js/main.87503366.js",
-    "static/media/calorie-finder.png": "/mealtracker/static/media/calorie-finder.1ba6f482d33c0cd08578.png",
-    "index.html": "/mealtracker/index.html",
-    "main.c2b9c548.css.map": "/mealtracker/static/css/main.c2b9c548.css.map",
-    "main.87503366.js.map": "/mealtracker/static/js/main.87503366.js.map"
+    "main.css": "/meal-tracker/static/css/main.c2b9c548.css",
+    "main.js": "/meal-tracker/static/js/main.3f5f3b37.js",
+    "static/media/calorie-finder.png": "/meal-tracker/static/media/calorie-finder.1ba6f482d33c0cd08578.png",
+    "index.html": "/meal-tracker/index.html",
+    "main.c2b9c548.css.map": "/meal-tracker/static/css/main.c2b9c548.css.map",
+    "main.3f5f3b37.js.map": "/meal-tracker/static/js/main.3f5f3b37.js.map"
   },
   "entrypoints": [
     "static/css/main.c2b9c548.css",
-    "static/js/main.87503366.js"
+    "static/js/main.3f5f3b37.js"
   ]
 }
